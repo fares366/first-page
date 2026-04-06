@@ -1,0 +1,1937 @@
+Attached Element Context from Integrated Browser
+
+Element: html
+
+HTML Path:
+html
+
+Attributes:
+- lang: en
+
+Computed Styles:
+- margin: 0px 0px 0px 0px
+- padding: 0px 0px 0px 0px
+- --bg-dark: #05070A
+- --blue: #00A3FF
+- --cyan: #00E5CC
+- --glass-bg: rgba(255, 255, 255, 0.03)
+- --glass-border: rgba(255, 255, 255, 0.1)
+- --text-gray: #94a3b8
+- -electron-corner-smoothing: none
+- -webkit-border-horizontal-spacing: 0px
+- -webkit-border-image: none
+- -webkit-border-vertical-spacing: 0px
+- -webkit-box-align: stretch
+- -webkit-box-decoration-break: slice
+- -webkit-box-direction: normal
+- -webkit-box-flex: 0
+- -webkit-box-ordinal-group: 1
+- -webkit-box-orient: horizontal
+- -webkit-box-pack: start
+- -webkit-box-reflect: none
+- -webkit-font-smoothing: auto
+- -webkit-line-break: auto
+- -webkit-line-clamp: none
+- -webkit-locale: "en"
+- -webkit-mask-box-image-outset: 0
+- -webkit-mask-box-image-repeat: stretch
+- -webkit-mask-box-image-slice: 0 fill
+- -webkit-mask-box-image-source: none
+- -webkit-mask-box-image-width: auto
+- -webkit-mask-position-x: 0%
+- -webkit-mask-position-y: 0%
+- -webkit-perspective-origin-x: 
+- -webkit-perspective-origin-y: 
+- -webkit-rtl-ordering: logical
+- -webkit-ruby-position: before
+- -webkit-tap-highlight-color: rgba(0, 0, 0, 0.18)
+- -webkit-text-combine: none
+- -webkit-text-decorations-in-effect: none
+- -webkit-text-fill-color: rgb(0, 0, 0)
+- -webkit-text-orientation: vertical-right
+- -webkit-text-security: none
+- -webkit-text-stroke-color: rgb(0, 0, 0)
+- -webkit-text-stroke-width: 0px
+- -webkit-transform-origin-x: 
+- -webkit-transform-origin-y: 
+- -webkit-transform-origin-z: 
+- -webkit-user-drag: auto
+- -webkit-user-modify: read-only
+- -webkit-writing-mode: horizontal-tb
+- accent-color: auto
+- align-content: normal
+- align-items: normal
+- align-self: auto
+- alignment-baseline: auto
+- all: 
+- anchor-name: none
+- anchor-scope: none
+- animation-composition: replace
+- animation-delay: 0s
+- animation-direction: normal
+- animation-duration: 0s
+- animation-fill-mode: none
+- animation-iteration-count: 1
+- animation-name: none
+- animation-play-state: running
+- animation-range-end: normal
+- animation-range-start: normal
+- animation-timeline: auto
+- animation-timing-function: ease
+- app-region: none
+- appearance: none
+- aspect-ratio: auto
+- backdrop-filter: none
+- backface-visibility: visible
+- background-attachment: scroll
+- background-blend-mode: normal
+- background-clip: border-box
+- background-color: rgba(0, 0, 0, 0)
+- background-image: none
+- background-origin: padding-box
+- background-position-x: 0%
+- background-position-y: 0%
+- background-repeat: repeat
+- background-size: auto
+- baseline-shift: 0px
+- baseline-source: auto
+- block-size: 7309.83px
+- border-block-end-color: rgb(0, 0, 0)
+- border-block-end-style: none
+- border-block-end-width: 0px
+- border-block-start-color: rgb(0, 0, 0)
+- border-block-start-style: none
+- border-block-start-width: 0px
+- border-bottom-color: rgb(0, 0, 0)
+- border-bottom-left-radius: 0px
+- border-bottom-right-radius: 0px
+- border-bottom-style: none
+- border-bottom-width: 0px
+- border-collapse: separate
+- border-end-end-radius: 0px
+- border-end-start-radius: 0px
+- border-image-outset: 0
+- border-image-repeat: stretch
+- border-image-slice: 100%
+- border-image-source: none
+- border-image-width: 1
+- border-inline-end-color: rgb(0, 0, 0)
+- border-inline-end-style: none
+- border-inline-end-width: 0px
+- border-inline-start-color: rgb(0, 0, 0)
+- border-inline-start-style: none
+- border-inline-start-width: 0px
+- border-left-color: rgb(0, 0, 0)
+- border-left-style: none
+- border-left-width: 0px
+- border-right-color: rgb(0, 0, 0)
+- border-right-style: none
+- border-right-width: 0px
+- border-start-end-radius: 0px
+- border-start-start-radius: 0px
+- border-top-color: rgb(0, 0, 0)
+- border-top-left-radius: 0px
+- border-top-right-radius: 0px
+- border-top-style: none
+- border-top-width: 0px
+- bottom: auto
+- box-decoration-break: slice
+- box-shadow: none
+- box-sizing: border-box
+- break-after: auto
+- break-before: auto
+- break-inside: auto
+- buffered-rendering: auto
+- caption-side: top
+- caret-animation: auto
+- caret-color: rgb(0, 0, 0)
+- clear: none
+- clip: auto
+- clip-path: none
+- clip-rule: nonzero
+- color: rgb(0, 0, 0)
+- color-interpolation: srgb
+- color-interpolation-filters: linearrgb
+- color-rendering: auto
+- color-scheme: normal
+- column-count: auto
+- column-fill: balance
+- column-gap: normal
+- column-rule-color: rgb(0, 0, 0)
+- column-rule-style: none
+- column-rule-width: 0px
+- column-span: none
+- column-width: auto
+- contain: none
+- contain-intrinsic-block-size: none
+- contain-intrinsic-height: none
+- contain-intrinsic-inline-size: none
+- contain-intrinsic-width: none
+- container-name: none
+- container-type: normal
+- content: normal
+- content-visibility: visible
+- corner-bottom-left-shape: round
+- corner-bottom-right-shape: round
+- corner-end-end-shape: round
+- corner-end-start-shape: round
+- corner-start-end-shape: round
+- corner-start-start-shape: round
+- corner-top-left-shape: round
+- corner-top-right-shape: round
+- counter-increment: none
+- counter-reset: none
+- counter-set: none
+- cursor: auto
+- cx: 0px
+- cy: 0px
+- d: none
+- direction: ltr
+- display: block
+- dominant-baseline: auto
+- dynamic-range-limit: no-limit
+- empty-cells: show
+- field-sizing: fixed
+- fill: rgb(0, 0, 0)
+- fill-opacity: 1
+- fill-rule: nonzero
+- filter: none
+- flex-basis: auto
+- flex-direction: row
+- flex-grow: 0
+- flex-shrink: 1
+- flex-wrap: nowrap
+- float: none
+- flood-color: rgb(0, 0, 0)
+- flood-opacity: 1
+- font-family: "Times New Roman"
+- font-feature-settings: normal
+- font-kerning: auto
+- font-optical-sizing: auto
+- font-palette: normal
+- font-size: 16px
+- font-size-adjust: none
+- font-stretch: 100%
+- font-style: normal
+- font-synthesis-small-caps: auto
+- font-synthesis-style: auto
+- font-synthesis-weight: auto
+- font-variant-alternates: normal
+- font-variant-caps: normal
+- font-variant-east-asian: normal
+- font-variant-emoji: normal
+- font-variant-ligatures: normal
+- font-variant-numeric: normal
+- font-variant-position: normal
+- font-variation-settings: normal
+- font-weight: 400
+- forced-color-adjust: auto
+- grid-auto-columns: auto
+- grid-auto-flow: row
+- grid-auto-rows: auto
+- grid-column-end: auto
+- grid-column-start: auto
+- grid-row-end: auto
+- grid-row-start: auto
+- grid-template-areas: none
+- grid-template-columns: none
+- grid-template-rows: none
+- height: 7309.83px
+- hyphenate-character: auto
+- hyphenate-limit-chars: auto
+- hyphens: manual
+- image-orientation: from-image
+- image-rendering: auto
+- initial-letter: normal
+- inline-size: 729px
+- inset-block-end: auto
+- inset-block-start: auto
+- inset-inline-end: auto
+- inset-inline-start: auto
+- interactivity: auto
+- interest-delay-end: normal
+- interest-delay-start: normal
+- interpolate-size: numeric-only
+- isolation: auto
+- justify-content: normal
+- justify-items: normal
+- justify-self: auto
+- left: auto
+- letter-spacing: normal
+- lighting-color: rgb(255, 255, 255)
+- line-break: auto
+- line-height: normal
+- list-style-image: none
+- list-style-position: outside
+- list-style-type: disc
+- margin-block-end: 0px
+- margin-block-start: 0px
+- margin-inline-end: 0px
+- margin-inline-start: 0px
+- marker-end: none
+- marker-mid: none
+- marker-start: none
+- mask-clip: border-box
+- mask-composite: add
+- mask-image: none
+- mask-mode: match-source
+- mask-origin: border-box
+- mask-repeat: repeat
+- mask-size: auto
+- mask-type: luminance
+- math-depth: 0
+- math-shift: normal
+- math-style: normal
+- max-block-size: none
+- max-height: none
+- max-inline-size: none
+- max-width: none
+- min-block-size: 0px
+- min-height: 0px
+- min-inline-size: 0px
+- min-width: 0px
+- mix-blend-mode: normal
+- object-fit: fill
+- object-position: 50% 50%
+- object-view-box: none
+- offset-anchor: auto
+- offset-distance: 0px
+- offset-path: none
+- offset-position: normal
+- offset-rotate: auto 0deg
+- opacity: 1
+- order: 0
+- orphans: 2
+- outline-color: rgb(0, 0, 0)
+- outline-offset: 0px
+- outline-style: none
+- outline-width: 0px
+- overflow-anchor: auto
+- overflow-block: visible
+- overflow-clip-margin: 0px
+- overflow-inline: visible
+- overflow-wrap: normal
+- overflow-x: visible
+- overflow-y: visible
+- overlay: none
+- overscroll-behavior-block: auto
+- overscroll-behavior-inline: auto
+- overscroll-behavior-x: auto
+- overscroll-behavior-y: auto
+- padding-block-end: 0px
+- padding-block-start: 0px
+- padding-inline-end: 0px
+- padding-inline-start: 0px
+- page: auto
+- page-orientation: 
+- paint-order: normal
+- perspective: none
+- perspective-origin: 364.5px 3654.91px
+- pointer-events: auto
+- position: static
+- position-anchor: auto
+- position-area: none
+- position-try-fallbacks: none
+- position-try-order: normal
+- position-visibility: anchors-visible
+- print-color-adjust: economy
+- quotes: auto
+- r: 0px
+- reading-flow: normal
+- reading-order: 0
+- resize: none
+- right: auto
+- rotate: none
+- row-gap: normal
+- ruby-align: space-around
+- ruby-position: over
+- rx: auto
+- ry: auto
+- scale: none
+- scroll-behavior: auto
+- scroll-initial-target: none
+- scroll-margin-block-end: 0px
+- scroll-margin-block-start: 0px
+- scroll-margin-bottom: 0px
+- scroll-margin-inline-end: 0px
+- scroll-margin-inline-start: 0px
+- scroll-margin-left: 0px
+- scroll-margin-right: 0px
+- scroll-margin-top: 0px
+- scroll-marker-group: none
+- scroll-padding-block-end: auto
+- scroll-padding-block-start: auto
+- scroll-padding-bottom: auto
+- scroll-padding-inline-end: auto
+- scroll-padding-inline-start: auto
+- scroll-padding-left: auto
+- scroll-padding-right: auto
+- scroll-padding-top: auto
+- scroll-snap-align: none
+- scroll-snap-stop: normal
+- scroll-snap-type: none
+- scroll-target-group: none
+- scroll-timeline-axis: block
+- scroll-timeline-name: none
+- scrollbar-color: auto
+- scrollbar-gutter: auto
+- scrollbar-width: auto
+- shape-image-threshold: 0
+- shape-margin: 0px
+- shape-outside: none
+- shape-rendering: auto
+- size: 
+- speak: normal
+- stop-color: rgb(0, 0, 0)
+- stop-opacity: 1
+- stroke: none
+- stroke-dasharray: none
+- stroke-dashoffset: 0px
+- stroke-linecap: butt
+- stroke-linejoin: miter
+- stroke-miterlimit: 4
+- stroke-opacity: 1
+- stroke-width: 1px
+- tab-size: 8
+- table-layout: auto
+- text-align: start
+- text-align-last: auto
+- text-anchor: start
+- text-autospace: no-autospace
+- text-box-edge: auto
+- text-box-trim: none
+- text-combine-upright: none
+- text-decoration-color: rgb(0, 0, 0)
+- text-decoration-line: none
+- text-decoration-skip-ink: auto
+- text-decoration-style: solid
+- text-decoration-thickness: auto
+- text-emphasis-color: rgb(0, 0, 0)
+- text-emphasis-position: over
+- text-emphasis-style: none
+- text-indent: 0px
+- text-orientation: mixed
+- text-overflow: clip
+- text-rendering: auto
+- text-shadow: none
+- text-size-adjust: auto
+- text-spacing-trim: normal
+- text-transform: none
+- text-underline-offset: auto
+- text-underline-position: auto
+- text-wrap-mode: wrap
+- text-wrap-style: auto
+- timeline-scope: none
+- top: auto
+- touch-action: auto
+- transform: none
+- transform-box: view-box
+- transform-origin: 364.5px 3654.91px
+- transform-style: flat
+- transition-behavior: normal
+- transition-delay: 0s
+- transition-duration: 0s
+- transition-property: all
+- transition-timing-function: ease
+- translate: none
+- unicode-bidi: normal
+- user-select: auto
+- vector-effect: none
+- vertical-align: baseline
+- view-timeline-axis: block
+- view-timeline-inset: auto
+- view-timeline-name: none
+- view-transition-class: none
+- view-transition-group: normal
+- view-transition-name: root
+- visibility: visible
+- white-space-collapse: collapse
+- widows: 2
+- width: 729px
+- will-change: auto
+- word-break: normal
+- word-spacing: 0px
+- writing-mode: horizontal-tb
+- x: 0px
+- y: 0px
+- z-index: auto
+- zoom: 1
+
+Dimensions:
+- top: 0px
+- left: 0px
+- width: 729px
+- height: 7310px
+
+Inner Text:
+```text
+Task
+Log in
+Sign Up Free
+For Students
+For Companies
+How it works
+About
+Sign Up Free
+● AI-POWERED INT…
+```
+
+Outer HTML:
+```html
+<html lang="en"><head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&amp;family=Syne:wght@700;800&amp;display=swap" rel="stylesheet">
+    <title>project1</title>   
+   
+  <style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/index.css">/* ==============================================
+   GLOBAL STYLES - Shared by all components
+   Only reset, variables, and base styles
+   ============================================== */
+
+/* Global CSS Variables */
+:root {
+    --bg-dark: #05070A;
+    --cyan: #00E5CC;
+    --blue: #00A3FF;
+    --text-gray: #94a3b8;
+    --glass-bg: rgba(255, 255, 255, 0.03);
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+/* Global Reset & General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--bg-dark);
+    color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    overflow-x: hidden;
+    line-height: 1.5;
+}
+
+/* Default heading styles */
+h1, h2, h3, h4 {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+}
+
+p, a, span {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Global Background Glow Effect */
+.bg-glow {
+    position: absolute;
+    top: -10%;
+    left: 50%;
+    width: 800px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(0, 229, 204, 0.08) 0%, transparent 70%);
+    transform: translateX(-50%);
+    z-index: -1;
+}
+
+/* Global Navigation Bar */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 80px;
+    border-bottom: 2px solid var(--glass-border);
+    position: sticky;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    z-index: 100;
+    transition: background 0.3s ease;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logoCircle {
+    width: 32px;
+    height: 32px;
+    background: white;
+    border-radius: 50%;
+}
+
+.brandName {
+    font-family: 'Syne';
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--cyan);
+}
+
+.navLinks a {
+    color: var(--text-gray);
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    margin: 0 15px;
+    transition: 0.3s;
+}
+
+.navLinks a:hover {
+    color: white;
+}
+
+.navLinks {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+/* Global Button Base Styles */
+.btn {
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:active {
+    transform: scale(0.94);
+    filter: brightness(0.9);
+}
+
+.btnCyanPill {
+    background: var(--cyan);
+    color: black;
+    padding: 10px 24px;
+    border-radius: 50px;
+}
+
+.btnOutlinePill {
+    background: transparent;
+    margin-right: 10px;
+    color: white;
+    border: 1px solid var(--glass-border);
+    padding: 10px 24px;
+    border-radius: 50px;
+}
+
+.btnOutlinePill:hover {
+    background: var(--glass-bg);
+}
+
+.btnCyanRect {
+    width: 100%;
+    background: var(--cyan);
+    color: black;
+    padding: 14px;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.big {
+    padding: 16px 32px;
+    font-size: 15px;
+}
+
+/* Global Hero Section Layout */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+    min-height: 100vh;
+    gap: 80px;
+}
+
+/* Global Utilities */
+.barsImg {
+    width: 30px;
+    height: 30px;
+    display: none;
+}
+
+.barsImg:hover {
+    filter: brightness(0.8);
+    cursor: pointer;
+}
+
+.navActions {
+    display: flex;
+    gap: 8px;
+}
+
+/* Menu Toggle Button - Hidden on desktop */
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    color: var(--cyan);
+}
+
+.menu-toggle svg {
+    width: 28px;
+    height: 28px;
+}
+
+/* Sidebar for mobile menu */
+.sidebar {
+    display: none;
+    position: fixed;
+    left: -100%;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(5, 7, 10, 0.95);
+    backdrop-filter: blur(10px);
+    padding-top: 80px;
+    transition: left 0.3s ease;
+    z-index: 99;
+    overflow-y: auto;
+}
+
+.sidebar.open {
+    left: 0;
+}
+
+.sidebar-links {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    list-style: none;
+}
+
+.sidebar-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    padding: 12px;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.sidebar-links a:hover {
+    background: var(--glass-bg);
+}
+
+.divider {
+    border: none;
+    height: 1px;
+    background: var(--glass-border);
+    margin: 15px 0;
+}
+
+/* Overlay when sidebar is open */
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 98;
+}
+
+/* ==============================================
+   RESPONSIVE DESIGN - Global breakpoints
+   ============================================== */
+
+/* Tablet (1024px and below) */
+@media (max-width: 1024px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        min-height: auto !important;
+        padding-top: 120px !important;
+        padding-bottom: 60px !important;
+        gap: 20px !important;
+    }
+}
+
+/* Tablet (920px and below) */
+@media (max-width: 920px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .nav {
+        padding: 15px 20px;
+    }
+
+    .navLinks {
+        display: none;
+    }
+
+    .barsImg {
+        display: block;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .sidebar {
+        display: block;
+    }
+
+    .overlay {
+        display: block;
+    }
+
+    .overlay.open {
+        display: block;
+    }
+
+    .sidebar.open {
+        left: 0;
+    }
+
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 80px;
+        gap: 20px;
+        align-items: center;
+    }
+}
+
+/* Mobile (658px and below) */
+@media (max-width: 658px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .nav,
+    .hero,
+    .statsRow,
+    .howItWorks,
+    .whoItFor,
+    .testimonials,
+    .ctaSection,
+    .footer {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 20px;
+        gap: 10px;
+    }
+
+    .brand {
+        flex: 1;
+    }
+
+    .navLinks {
+        display: none;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .sidebar {
+        display: block;
+    }
+
+    .overlay {
+        display: block;
+    }
+
+    .navActions .btnCyanPill {
+        display: none;
+    }
+
+    .btnCyanPill {
+        padding: 8px 12px;
+        font-size: 12px;
+        margin-right: 0;
+    }
+
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        overflow: hidden;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    .bgGlow {
+        width: 100%;
+        left: 0;
+        transform: none;
+    }  } </style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/herocont.module.css">/* Hero Content Component Styles */
+
+._hero_1f96d_3 {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+._heroContent_1f96d_11 {
+    flex: 1;
+    min-width: 300px;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+._badgeAi_1f96d_23 {
+    color: var(--cyan);
+    font-size: 11px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background: rgba(0, 229, 204, 0.12);
+    padding: 8px 16px;
+    border-radius: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin-bottom: 28px;
+    display: inline-block;
+    width: fit-content;
+}
+
+._heroTitle_1f96d_38 {
+    font-family: 'Syne', sans-serif;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 1.15;
+    margin: 0 0 30px 0;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    color: white;
+    word-spacing: -0.05em;
+}
+
+._gradientText_1f96d_50 {
+    background: linear-gradient(90deg, var(--blue), var(--cyan));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: inline;
+}
+
+._lead_1f96d_58 {
+    color: var(--text-gray);
+    font-size: 16px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    line-height: 1.7;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+
+._heroActions_1f96d_67 {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+._hero_1f96d_3 > :last-child {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._hero_1f96d_3 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    ._heroContent_1f96d_11 {
+        max-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    ._heroActions_1f96d_67 {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 658px) {
+    ._heroContent_1f96d_11 {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    ._heroTitle_1f96d_38 {
+        font-size: 48px;
+        letter-spacing: -1px;
+    }
+
+    ._lead_1f96d_58 {
+        font-size: 14px;
+    }
+
+    ._heroActions_1f96d_67 {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+
+    ._heroActions_1f96d_67 ._btn_1f96d_117 {
+        width: 100%;
+        max-width: 300px;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/herocard.module.css">/* HeroCard Component Styles */
+
+._jobCard_akc9z_3 {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(25px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 24px;
+    padding: 30px;
+    width: 400px;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+._cardHeader_akc9z_14 {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+._companyIcon_akc9z_21 {
+    width: 48px;
+    height: 48px;
+    background: #1e293b;
+    border-radius: 10px;
+}
+
+._headerText_akc9z_28 {
+    flex: 1;
+}
+
+._cardTitle_akc9z_32 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    color: white;
+}
+
+._cardSubtitle_akc9z_39 {
+    font-size: 12px;
+    color: #94a3b8;
+    margin: 4px 0 0 0;
+}
+
+._matchBadge_akc9z_45 {
+    margin-left: auto;
+    color: #00E5CC;
+    border: 1px solid rgba(0, 229, 204, 0.3);
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+}
+
+._cardBody_akc9z_57 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+._scoreLabel_akc9z_63 {
+    font-size: 11px;
+    font-weight: 600;
+    color: #94a3b8;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+._progressContainer_akc9z_71 {
+    width: 100%;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+}
+
+._progressBar_akc9z_78 {
+    width: 87%;
+    height: 100%;
+    background: linear-gradient(90deg, #00A3FF, #00E5CC);
+    border-radius: 10px;
+}
+
+._tags_akc9z_85 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+._tag_akc9z_85 {
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+._tagCyan_akc9z_98 {
+    background: rgba(0, 229, 204, 0.1);
+    color: #00E5CC;
+}
+
+._tagBlue_akc9z_103 {
+    background: rgba(0, 163, 255, 0.1);
+    color: #00A3FF;
+}
+
+._tagRed_akc9z_108 {
+    background: rgba(255, 87, 87, 0.1);
+    color: #FF5757;
+}
+
+._tagOrange_akc9z_113 {
+    background: rgba(255, 163, 0, 0.1);
+    color: #FFA300;
+}
+
+._cardMeta_akc9z_118 {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+}
+
+._metaItem_akc9z_125 {
+    flex: 1;
+}
+
+._metaItem_akc9z_125 span {
+    display: block;
+    font-size: 10px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+._metaItem_akc9z_125 strong {
+    display: block;
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+._btnCyanRect_akc9z_145 {
+    width: 100%;
+    background: #00E5CC;
+    color: black;
+    padding: 14px;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+._btnCyanRect_akc9z_145:hover {
+    background: #00d4b8;
+    transform: translateY(-2px);
+}
+
+._btnCyanRect_akc9z_145:active {
+    transform: scale(0.94);
+    filter: brightness(0.9);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._jobCard_akc9z_3 {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto 10px;
+    }
+}
+
+@media (max-width: 658px) {
+    ._jobCard_akc9z_3 {
+        width: 100%;
+        max-width: 100%;
+        margin: 30px 0 0 0;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    ._cardHeader_akc9z_14 {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    ._matchBadge_akc9z_45 {
+        margin-left: 0;
+    }
+
+    ._cardMeta_akc9z_118 {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    ._metaItem_akc9z_125 {
+        text-align: center;
+    }
+
+    ._btnCyanRect_akc9z_145 {
+        padding: 12px;
+        font-size: 13px;
+    }
+}
+</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/statrow.module.css">/* Statistics Row Component Styles */
+
+._statsRow_1ojb5_3 {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 80px;
+    background: rgba(255, 255, 255, 0.01);
+    border-top: 1px solid var(--glass-border);
+}
+
+._statItem_1ojb5_11 h2 {
+    font-family: 'Syne';
+    font-size: 42px;
+    color: var(--cyan);
+}
+
+._statItem_1ojb5_11._active_1ojb5_17 {
+    border: 1px solid var(--blue);
+    padding: 20px;
+    border-radius: 15px;
+    background: rgba(0, 163, 255, 0.05);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._statsRow_1ojb5_3 {
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+    }
+
+    ._statItem_1ojb5_11 {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid var(--glass-border);
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 658px) {
+    ._statsRow_1ojb5_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/howitswork.module.css">/* How It Works Section Component Styles */
+
+._howItWorks_bw3qt_3 {
+    padding: 100px 80px;
+    text-align: left;
+}
+
+._badgeGold_bw3qt_8 {
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.3);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+._sectionTitle_bw3qt_17 {
+    font-family: 'Syne';
+    font-size: 48px;
+    font-weight: 800;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+._stepsGrid_bw3qt_32 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+._stepCard_bw3qt_39 {
+    flex: 1;
+    padding: 30px;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    transition: 0.3s;
+}
+
+._stepCard_bw3qt_39:hover {
+    transform: translateY(-10px);
+    border-color: var(--cyan);
+}
+
+._iconBox_bw3qt_53 {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+._iconBoxGreen_bw3qt_64 {
+    background: rgba(0, 229, 204, 0.1);
+}
+
+._iconBoxGold_bw3qt_68 {
+    background: rgba(255, 163, 0, 0.1);
+}
+
+._iconBoxPurple_bw3qt_72 {
+    background: rgba(147, 51, 234, 0.1);
+}
+
+._stepArrow_bw3qt_76 {
+    color: var(--text-gray);
+    font-size: 24px;
+    opacity: 0.5;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._stepsGrid_bw3qt_32 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    ._stepArrow_bw3qt_76 {
+        transform: rotate(90deg);
+    }
+}
+
+@media (max-width: 658px) {
+    ._howItWorks_bw3qt_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    ._stepsGrid_bw3qt_32 {
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+
+    ._stepCard_bw3qt_39 {
+        width: 100%;
+        margin: 0;
+    }
+
+    ._stepArrow_bw3qt_76 {
+        transform: rotate(90deg);
+        margin: 10px 0;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/isitfor.module.css">/* Who It's For Section Component Styles */
+
+._whoItFor_l94f3_3 {
+    padding: 100px 80px;
+    background: var(--bg-dark);
+    text-align: left;
+}
+
+._badgeGold_l94f3_9 {
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.3);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+._sectionTitle_l94f3_18 {
+    font-family: 'Syne';
+    font-size: 48px;
+    font-weight: 800;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+._dualCards_l94f3_33 {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+._featureCard_l94f3_39 {
+    flex: 1;
+    background: var(--glass-bg);
+    backdrop-filter: blur(25px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 40px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+._featureCard_l94f3_39:hover {
+    transform: translateY(-5px);
+}
+
+._topAccent_l94f3_55 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 3px;
+    background: var(--cyan);
+    border-radius: 0 0 10px 0;
+}
+
+._topAccent_l94f3_55._gold_l94f3_65 {
+    background: #FFA300;
+}
+
+._miniBadge_l94f3_69 {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+._miniBadgeCyan_l94f3_78 {
+    background: rgba(0, 229, 204, 0.1);
+    color: var(--cyan);
+    border: 1px solid rgba(0, 229, 204, 0.2);
+}
+
+._miniBadgeGold_l94f3_84 {
+    background: rgba(255, 163, 0, 0.1);
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.2);
+}
+
+._featureCard_l94f3_39 h3 {
+    font-family: 'Syne', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+._featureCard_l94f3_39 p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+._featureList_l94f3_105 {
+    list-style: none;
+}
+
+._featureList_l94f3_105 li {
+    color: var(--text-gray);
+    font-size: 13px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+._studentSide_l94f3_118 ._featureList_l94f3_105 li {
+    color: var(--text-gray);
+}
+
+._studentSide_l94f3_118 ._featureList_l94f3_105 li::before {
+    color: var(--cyan);
+}
+
+._companySide_l94f3_126 ._featureList_l94f3_105 li::before {
+    color: #FFA300;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._dualCards_l94f3_33 {
+        flex-direction: column;
+    }
+
+    ._featureCard_l94f3_39 {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    ._dualCards_l94f3_33 {
+        flex-direction: column;
+    }
+
+    ._featureCard_l94f3_39 {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 658px) {
+    ._whoItFor_l94f3_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    ._dualCards_l94f3_33 {
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+
+    ._featureCard_l94f3_39 {
+        width: 100%;
+        margin: 0;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/testimonial.module.css">/* Testimonials Section Component Styles */
+
+._testimonials_1ikrm_3 {
+    padding: 100px 80px;
+    text-align: left;
+}
+
+._badgeGold_1ikrm_8 {
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.3);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+._sectionTitle_1ikrm_17 {
+    font-family: 'Syne';
+    font-size: 48px;
+    font-weight: 800;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+._testimonialsGrid_1ikrm_32 {
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+._testiCard_1ikrm_38 {
+    flex: 1;
+    background: var(--glass-bg);
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.3s;
+}
+
+._testiCard_1ikrm_38:hover {
+    border-color: rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+._stars_1ikrm_56 {
+    color: #FFA300;
+    font-size: 18px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+._quote_1ikrm_63 {
+    font-style: italic;
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+._userInfo_1ikrm_71 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+._avatar_1ikrm_77 {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+}
+
+._avatarCyan_1ikrm_89 {
+    background: #00E5CC;
+    color: #05070A;
+}
+
+._avatarGold_1ikrm_94 {
+    background: #FFA300;
+    color: #05070A;
+}
+
+._avatarPurple_1ikrm_99 {
+    background: #9333EA;
+}
+
+._userDetails_1ikrm_103 strong {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+._userDetails_1ikrm_103 span {
+    font-size: 11px;
+    color: var(--text-gray);
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    ._testimonialsGrid_1ikrm_32 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 658px) {
+    ._testimonials_1ikrm_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    ._testimonialsGrid_1ikrm_32 {
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+
+    ._testiCard_1ikrm_38 {
+        width: 100%;
+        margin: 0;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/cta.module.css">/* Call-to-Action (CTA) Section Component Styles */
+
+._ctaSection_a1u3j_3 {
+    padding: 100px 80px;
+}
+
+._ctaContainer_a1u3j_7 {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.01) 100%);
+    border: 1px solid var(--glass-border);
+    border-radius: 32px;
+    padding: 80px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+._ctaContainer_a1u3j_7::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(0, 229, 204, 0.1) 0%, transparent 70%);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+._ctaLead_a1u3j_29 {
+    color: var(--text-gray);
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+._ctaActions_a1u3j_35 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._ctaSection_a1u3j_3 {
+        padding: 40px 20px;
+    }
+
+    ._ctaActions_a1u3j_35 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 658px) {
+    ._ctaSection_a1u3j_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    ._ctaContainer_a1u3j_7 {
+        padding: 40px 20px;
+    }
+
+    ._ctaActions_a1u3j_35 {
+        flex-direction: column;
+    }
+}</style><style type="text/css" data-vite-dev-id="C:/Users/lenovo/Desktop/project1/project1/src/footer.module.css">/* Footer Component Styles */
+
+._footer_1ykwp_3 {
+    padding: 80px 80px 40px;
+    border-top: 1px solid var(--glass-border);
+    background: rgba(0, 0, 0, 0.2);
+}
+
+._footerGrid_1ykwp_9 {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: 50px;
+    margin-bottom: 60px;
+}
+
+._brandDesc_1ykwp_16 {
+    color: var(--text-gray);
+    font-size: 14px;
+    margin: 20px 0;
+    max-width: 300px;
+    line-height: 1.6;
+}
+
+._socialLinks_1ykwp_24 {
+    display: flex;
+    gap: 15px;
+}
+
+._socialIcon1_1ykwp_29,
+._socialIcon2_1ykwp_30,
+._socialIcon3_1ykwp_31,
+._socialIcon4_1ykwp_32 {
+    font-size: 12px;
+    color: var(--text-gray);
+    text-decoration: none;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+._socialIcon1_1ykwp_29 img {
+    width: 29px;
+    height: 29px;
+    text-align: center;
+    object-fit: contain;
+}
+
+._socialIcon2_1ykwp_30 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+._socialIcon3_1ykwp_31 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+._socialIcon4_1ykwp_32 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+._socialIcon1_1ykwp_29:hover,
+._socialIcon2_1ykwp_30:hover,
+._socialIcon3_1ykwp_31:hover,
+._socialIcon4_1ykwp_32:hover {
+    scale: 1.1;
+}
+
+._footerLinks_1ykwp_72 h4 {
+    font-size: 16px;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+._footerLinks_1ykwp_72 a {
+    display: block;
+    color: var(--text-gray);
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 12px;
+    transition: 0.3s;
+}
+
+._footerLinks_1ykwp_72 a:hover {
+    color: white;
+    padding-left: 5px;
+}
+
+._footerBottom_1ykwp_92 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    border-top: 1px solid var(--glass-border);
+    color: var(--text-gray);
+    font-size: 12px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    ._footer_1ykwp_3 {
+        padding: 40px 20px;
+    }
+
+    ._footerGrid_1ykwp_9 {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    ._footerGrid_1ykwp_9 {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 658px) {
+    ._footer_1ykwp_3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    ._footerGrid_1ykwp_9 {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        width: 100%;
+    }
+
+    ._footerBottom_1ykwp_92 {
+        flex-direction: column;
+        gap: 10px;
+    }
+}</style></head>
+  <body>
+    <div id="root"><div class="bg-glow"></div><header class="nav"><div class="menu-toggle "><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 7H20M4 12H20M4 17H20" stroke="#00E5CC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class="brand"><div class="logoCircle"></div><span class="brandName">Task</span></div><nav class="navLinks"><a href="#">For Students</a><a href="#">For Companies</a><a href="#">How it works</a><a href="#">About</a></nav><div class="navActions"><button class="btn btnOutlinePill">Log in</button><button class="btn btnCyanPill">Sign Up Free</button></div></header><div class="sidebar "><nav class="sidebar-links"><a href="#">For Students</a><a href="#">For Companies</a><a href="#">How it works</a><a href="#">About</a><hr class="divider"><button class="btn btn-cyan-rect">Sign Up Free</button></nav></div><main><section class="_hero_1f96d_3"><div class="_heroContent_1f96d_11"><span class="_badgeAi_1f96d_23">● AI-Powered Internship Matching</span><h1 class="_heroTitle_1f96d_38">Find Your <br><span class="_gradientText_1f96d_50">Dream <br> Internship</span><br>Faster</h1><p class="_lead_1f96d_58">Our AI analyses your profile, skills and ambitions to connect you with the internship opportunities that truly match — no more endless scrolling.</p><div class="_heroActions_1f96d_67"><a href="#" class="btn btnCyanPill big">Find an Internship →</a><a href="#" class="btn btnOutlinePill big">Post a Position</a></div></div><aside class="_jobCard_akc9z_3"><div class="_cardHeader_akc9z_14"><div class="_companyIcon_akc9z_21"></div><div class="_headerText_akc9z_28"><p class="_cardTitle_akc9z_32">Front-End Developer Intern</p><p class="_cardSubtitle_akc9z_39">sonatrach • algiers, Algeria</p></div><div class="_matchBadge_akc9z_45">87% match</div></div><div class="_cardBody_akc9z_57"><p class="_scoreLabel_akc9z_63">AI Compatibility Score</p><div class="_progressContainer_akc9z_71"><div class="_progressBar_akc9z_78"></div></div><div class="_tags_akc9z_85"><span class="_tag_akc9z_85 _tagCyan_akc9z_98">✓ React</span><span class="_tag_akc9z_85 _tagBlue_akc9z_103">✓ TypeScript</span><span class="_tag_akc9z_85 _tagRed_akc9z_108">Three.js</span><span class="_tag_akc9z_85 _tagOrange_akc9z_113">6 months</span><span class="_tag_akc9z_85 _tagOrange_akc9z_113">paid</span></div><div class="_cardMeta_akc9z_118"><div class="_metaItem_akc9z_125"><span>Location</span><strong>On-site</strong></div><div class="_metaItem_akc9z_125"><span>Start</span><strong>Sept 2025</strong></div><div class="_metaItem_akc9z_125"><span>Level</span><strong>Master</strong></div></div><button class="_btnCyanRect_akc9z_145">Apply Now →</button></div></aside></section><section class="_statsRow_1ojb5_3"><div class="_statItem_1ojb5_11"><h2>12,400+</h2><p>Registered Students</p></div><div class="_statItem_1ojb5_11 _active_1ojb5_17"><h2>3,100+</h2><p>Available Offers</p></div><div class="_statItem_1ojb5_11"><h2>860+</h2><p>Partner Companies</p></div></section><section class="_howItWorks_bw3qt_3"><div><span class="_badgeGold_bw3qt_8">HOW IT WORKS</span><h2 class="_sectionTitle_bw3qt_17">Three steps to your <br> perfect internship</h2><p>From profile creation to offer acceptance — our AI guides every step of your journey.</p></div><div class="_stepsGrid_bw3qt_32"><div class="_stepCard_bw3qt_39"><div class="_iconBox_bw3qt_53 _iconBoxGreen_bw3qt_64">👤</div><h3>Build Your Profile</h3><p>Add your skills, experience, and preferences. The more detail you provide, the smarter your matches become.</p></div><div class="_stepArrow_bw3qt_76">→</div><div class="_stepCard_bw3qt_39"><div class="_iconBox_bw3qt_53 _iconBoxGold_bw3qt_68">🧠</div><h3>AI Finds Your Matches</h3><p>Our algorithm analyses thousands of offers and scores each against your unique profile.</p></div><div class="_stepArrow_bw3qt_76">→</div><div class="_stepCard_bw3qt_39"><div class="_iconBox_bw3qt_53 _iconBoxPurple_bw3qt_72">🚀</div><h3>Apply with Confidence</h3><p>One-click applications with your pre-built profile. Track every stage in real time.</p></div></div></section><section class="_whoItFor_l94f3_3"><div><span class="_badgeGold_l94f3_9">WHO IT'S FOR</span><h2 class="_sectionTitle_l94f3_18">Built for students <br> and recruiters alike</h2><p>Two sides of the same platform — each with powerful tools designed for their specific needs.</p></div><div class="_dualCards_l94f3_33"><div class="_featureCard_l94f3_39 _studentSide_l94f3_118"><div class="_topAccent_l94f3_55"></div><span class="_miniBadge_l94f3_69 _miniBadgeCyan_l94f3_78">For Students</span><h3>Accelerate Your Career Start</h3><p>Stop spending hours on generic job boards. Get AI-curated offers that match exactly who you are and where you want to go.</p><ul class="_featureList_l94f3_105"><li>✦ Personalised AI offer recommendations with compatibility score</li><li>✦ Skills gap analysis — know exactly what to learn next</li><li>✦ Direct messaging with company recruiters</li><li>✦ Real-time application tracking dashboard</li><li>✦ Profile analytics — see who viewed your profile</li></ul></div><div class="_featureCard_l94f3_39 _companySide_l94f3_126"><div class="_topAccent_l94f3_55 _gold_l94f3_65"></div><span class="_miniBadge_l94f3_69 _miniBadgeGold_l94f3_84">For Companies</span><h3>Find Talent That Fits</h3><p>Reduce time-to-hire and discover pre-qualified candidates ranked automatically by how well they meet your requirements.</p><ul class="_featureList_l94f3_105"><li>✦ AI-ranked candidate list for every offer posted</li><li>✦ Detailed candidate profiles with skill matching charts</li><li>✦ Automatic detection of compatible profiles</li><li>✦ Integrated messaging system for efficient outreach</li><li>✦ Recruitment analytics and performance reports</li></ul></div></div></section><section class="_testimonials_1ikrm_3"><div><span class="_badgeGold_1ikrm_8">TESTIMONIALS</span><h2 class="_sectionTitle_1ikrm_17">Trusted by students <br> and companies</h2><p>Don't just take our word for it — hear from people who found their match on SmartIntern.</p></div><div class="_testimonialsGrid_1ikrm_32"><div class="_testiCard_1ikrm_38"><div class="_stars_1ikrm_56">★★★★★</div><p class="_quote_1ikrm_63">"The AI score feature is a game changer. I immediately knew which offers were realistic for me and which skills I needed to develop. Got my internship at Thales in 3 weeks."</p><div class="_userInfo_1ikrm_71"><div class="_avatar_1ikrm_77 _avatarCyan_1ikrm_89">LM</div><div class="_userDetails_1ikrm_103"><strong>Lina Mazari</strong><span>Master's in Software Engineering</span></div></div></div><div class="_testiCard_1ikrm_38"><div class="_stars_1ikrm_56">★★★★★</div><p class="_quote_1ikrm_63">"We hired three excellent interns through SmartIntern last semester. The candidate ranking saved our HR team an enormous amount of screening time."</p><div class="_userInfo_1ikrm_71"><div class="_avatar_1ikrm_77 _avatarGold_1ikrm_94">KR</div><div class="_userDetails_1ikrm_103"><strong>Karim Rahmani</strong><span>HR Manager - BNP Paribas</span></div></div></div><div class="_testiCard_1ikrm_38"><div class="_stars_1ikrm_56">★★★★☆</div><p class="_quote_1ikrm_63">"I was sceptical about AI matching at first but the platform really understands what you're looking for. The profile completion tips were very useful for improving my score."</p><div class="_userInfo_1ikrm_71"><div class="_avatar_1ikrm_77 _avatarPurple_1ikrm_99">YB</div><div class="_userDetails_1ikrm_103"><strong>Yasmine Bouali</strong><span>Bachelor in Marketing, Year 3</span></div></div></div></div></section><section class="_ctaSection_a1u3j_3"><div class="_ctaContainer_a1u3j_7"><h2>Ready to find your <br> <span>perfect internship?</span></h2><p class="_ctaLead_a1u3j_29">Join 12,400+ students already using SmartIntern to launch their careers.</p><div class="_ctaActions_a1u3j_35"><a href="#" class="btn btnCyanPill big">Sign Up as a Student</a><a href="#" class="btn btnOutlinePill big">Post a Position</a></div></div></section></main><footer class="_footer_1ykwp_3"><div class="_footerGrid_1ykwp_9"><div><div class="brand"><div class="logoCircle"></div><span class="brandName">Task</span></div><p class="_brandDesc_1ykwp_16">The AI-powered platform connecting ambitious students with the right companies — intelligently.</p><div class="_socialLinks_1ykwp_24"><a href="#" class="_socialIcon1_1ykwp_29"><img alt="LinkedIn" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2032%2032'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='16'%20cy='16'%20r='14'%20fill='url(%23paint0_linear_87_7225)'/%3e%3cpath%20d='M22.9866%2010.2088C23.1112%209.40332%2022.3454%208.76755%2021.6292%209.082L7.36482%2015.3448C6.85123%2015.5703%206.8888%2016.3483%207.42147%2016.5179L10.3631%2017.4547C10.9246%2017.6335%2011.5325%2017.541%2012.0228%2017.2023L18.655%2012.6203C18.855%2012.4821%2019.073%2012.7665%2018.9021%2012.9426L14.1281%2017.8646C13.665%2018.3421%2013.7569%2019.1512%2014.314%2019.5005L19.659%2022.8523C20.2585%2023.2282%2021.0297%2022.8506%2021.1418%2022.1261L22.9866%2010.2088Z'%20fill='white'/%3e%3cdefs%3e%3clinearGradient%20id='paint0_linear_87_7225'%20x1='16'%20y1='2'%20x2='16'%20y2='30'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%2337BBFE'/%3e%3cstop%20offset='1'%20stop-color='%23007DBB'/%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e"></a><a href="#" class="_socialIcon2_1ykwp_30"><img alt="Twitter" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='iso-8859-1'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20height='800px'%20width='800px'%20version='1.1'%20id='Layer_1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20viewBox='0%200%20512%20512'%20xml:space='preserve'%3e%3cg%3e%3cpath%20style='fill:%232D527C;'%20d='M60.76,139.885c-7.812,0-14.144-6.332-14.144-14.144V60.76c0-7.812,6.332-14.144,14.144-14.144%20h64.98c7.812,0,14.144,6.332,14.144,14.144s-6.332,14.144-14.144,14.144H74.903v50.837%20C74.903,133.553,68.571,139.885,60.76,139.885z'/%3e%3cpath%20style='fill:%232D527C;'%20d='M451.24,465.384h-64.98c-7.812,0-14.144-6.332-14.144-14.144s6.332-14.144,14.144-14.144h50.836%20V386.26c0-7.812,6.332-14.144,14.144-14.144s14.144,6.332,14.144,14.144v64.98C465.384,459.05,459.05,465.384,451.24,465.384z'/%3e%3cpath%20style='fill:%232D527C;'%20d='M497.856,512H14.144C6.332,512,0,505.668,0,497.856V14.144C0,6.332,6.332,0,14.144,0h483.713%20C505.668,0,512,6.332,512,14.144v483.713C512,505.668,505.668,512,497.856,512z%20M28.287,483.713h455.425V28.287H28.287V483.713z'/%3e%3c/g%3e%3cpath%20style='fill:%23CEE8FA;'%20d='M285.871,396.432v-97.09c0-15.476,12.199-28.515,27.672-28.836%20c8.042-0.167,15.342,3.028,20.587,8.275c5.117,5.113,8.28,12.183,8.28,19.991v97.662h50.496l0.003-100.848%20c0-54.297-36.605-78.178-67.266-78.178c-40.93,0-53.985,23.517-53.988,23.524v-21.296h-36.171v176.797H285.871z'/%3e%3cpath%20style='fill:%232D527C;'%20d='M392.906,410.576h-50.496c-7.812,0-14.144-6.332-14.144-14.144V298.77%20c0-3.776-1.468-7.322-4.133-9.985c-2.751-2.751-6.416-4.242-10.298-4.14c-7.621,0.158-13.821,6.751-13.821,14.695v97.09%20c0,7.812-6.332,14.144-14.144,14.144h-50.387c-7.812,0-14.144-6.332-14.144-14.144V219.634c0-7.812,6.332-14.144,14.144-14.144%20h36.171c5.165,0,9.684,2.769,12.152,6.902c10.097-5.136,23.76-9.13,41.837-9.13c40.456,0,81.411,31.711,81.411,92.321%20l-0.003,100.848C407.05,404.244,400.718,410.576,392.906,410.576z%20M356.554,382.289h22.21l0.003-86.705%20c0-43.995-27.538-64.033-53.124-64.033c-30.781,0-41.055,15.37-41.748,16.466c-3.105,5.369-9.391,8.121-15.49,6.68%20c-6.384-1.506-10.895-7.206-10.895-13.765v-7.154h-7.884v148.51h22.099v-82.947c0-23.222,18.627-42.502,41.523-42.977%20c11.663-0.231,22.634,4.168,30.883,12.415c8.01,8.003,12.422,18.655,12.422,29.992L356.554,382.289L356.554,382.289z%20M284.306,247.256c-0.127,0.255-0.262,0.502-0.402,0.747C284.194,247.528,284.306,247.258,284.306,247.256z'/%3e%3cpolyline%20style='fill:%23CEE8FA;'%20points='174.893,352.177%20174.893,396.432%20124.507,396.432%20124.507,219.634%20174.893,219.634%20174.893,276.745%20'/%3e%3cg%3e%3cpath%20style='fill:%232D527C;'%20d='M174.893,410.576h-50.387c-7.812,0-14.144-6.332-14.144-14.144V219.634%20c0-7.812,6.332-14.144,14.144-14.144h50.387c7.812,0,14.144,6.332,14.144,14.144v57.111c0,7.812-6.332,14.144-14.144,14.144%20s-14.144-6.332-14.144-14.144v-42.967H138.65v148.511h22.099v-30.112c0-7.812,6.332-14.144,14.144-14.144%20c7.812,0,14.144,6.332,14.144,14.144v44.255C189.037,404.244,182.705,410.576,174.893,410.576z'/%3e%3cpath%20style='fill:%232D527C;'%20d='M149.701,190.932c-24.678,0-44.755-20.077-44.755-44.755s20.077-44.753,44.755-44.753%20c24.676,0,44.753,20.075,44.753,44.753S174.377,190.932,149.701,190.932z%20M149.701,129.711c-9.08,0-16.467,7.387-16.467,16.466%20c0,9.08,7.387,16.467,16.467,16.467c9.079,0,16.466-7.387,16.466-16.467C166.167,137.099,158.779,129.711,149.701,129.711z'/%3e%3c/g%3e%3c/svg%3e"></a><a href="#" class="_socialIcon3_1ykwp_31"><img alt="Instagram" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='126.444%202.281%20589%20589'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='420.944'%20cy='296.781'%20r='294.5'%20fill='%232daae1'/%3e%3cpath%20d='M609.773%20179.634c-13.891%206.164-28.811%2010.331-44.498%2012.204%2016.01-9.587%2028.275-24.779%2034.066-42.86a154.78%20154.78%200%200%201-49.209%2018.801c-14.125-15.056-34.267-24.456-56.551-24.456-42.773%200-77.462%2034.675-77.462%2077.473%200%206.064.683%2011.98%201.996%2017.66-64.389-3.236-121.474-34.079-159.684-80.945-6.672%2011.446-10.491%2024.754-10.491%2038.953%200%2026.875%2013.679%2050.587%2034.464%2064.477a77.122%2077.122%200%200%201-35.097-9.686v.979c0%2037.54%2026.701%2068.842%2062.145%2075.961-6.511%201.784-13.344%202.716-20.413%202.716-4.998%200-9.847-.473-14.584-1.364%209.859%2030.769%2038.471%2053.166%2072.363%2053.799-26.515%2020.785-59.925%2033.175-96.212%2033.175-6.25%200-12.427-.373-18.491-1.104%2034.291%2021.988%2075.006%2034.824%20118.759%2034.824%20142.496%200%20220.428-118.052%20220.428-220.428%200-3.361-.074-6.697-.236-10.021a157.855%20157.855%200%200%200%2038.707-40.158z'%20fill='%23ffffff'/%3e%3c/svg%3e"></a><a href="#" class="_socialIcon4_1ykwp_32"><img alt="YouTube" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='iso-8859-1'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20height='800px'%20width='800px'%20version='1.1'%20id='Layer_1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20viewBox='0%200%20512%20512'%20xml:space='preserve'%3e%3cg%3e%3cpath%20style='fill:%23B3404A;'%20d='M60.76,139.885c-7.812,0-14.144-6.332-14.144-14.144V60.76c0-7.812,6.332-14.144,14.144-14.144%20h64.98c7.812,0,14.144,6.332,14.144,14.144s-6.332,14.144-14.144,14.144H74.903v50.837%20C74.903,133.553,68.571,139.885,60.76,139.885z'/%3e%3cpath%20style='fill:%23B3404A;'%20d='M451.24,465.384h-64.98c-7.812,0-14.144-6.332-14.144-14.144s6.332-14.144,14.144-14.144h50.836%20V386.26c0-7.812,6.332-14.144,14.144-14.144s14.144,6.332,14.144,14.144v64.98C465.384,459.05,459.05,465.384,451.24,465.384z'/%3e%3cpath%20style='fill:%23B3404A;'%20d='M497.856,512H14.144C6.332,512,0,505.668,0,497.856V14.144C0,6.332,6.332,0,14.144,0h483.713%20C505.668,0,512,6.332,512,14.144v483.713C512,505.668,505.668,512,497.856,512z%20M28.287,483.713h455.425V28.287H28.287V483.713z'/%3e%3c/g%3e%3cpath%20style='fill:%23F4B2B0;'%20d='M407.283,224.413v-22.848c0-35.141-28.487-63.628-63.628-63.628H168.345%20c-35.141,0-63.628,28.487-63.628,63.628v108.869c0,35.141,28.487,63.628,63.628,63.628h175.312%20c35.141,0,63.628-28.487,63.628-63.628v-13.889%20M206.093,308.743v-105.83l105.56,52.916L206.093,308.743z'/%3e%3cpath%20style='fill:%23B3404A;'%20d='M343.657,388.206H168.343c-42.884,0-77.772-34.888-77.772-77.772V201.565%20c0-42.884,34.888-77.772,77.772-77.772h175.312c42.884,0,77.772,34.888,77.772,77.772v22.848c0,7.812-6.332,14.144-14.144,14.144%20s-14.144-6.332-14.144-14.144v-22.848c0-27.286-22.198-49.484-49.484-49.484H168.343c-27.286,0-49.484,22.198-49.484,49.484v108.869%20c0,27.286,22.198,49.484,49.484,49.484h175.312c27.286,0,49.484-22.198,49.484-49.484v-13.889c0-7.812,6.332-14.144,14.144-14.144%20s14.144,6.332,14.144,14.144v13.889C421.427,353.318,386.539,388.206,343.657,388.206z%20M206.094,322.887%20c-2.584,0-5.16-0.707-7.43-2.109c-4.174-2.577-6.714-7.131-6.714-12.035v-105.83c0-4.905,2.54-9.459,6.714-12.035%20c4.174-2.576,9.383-2.806,13.767-0.61l105.561,52.916c4.785,2.399,7.806,7.292,7.806,12.644c0,5.352-3.021,10.246-7.806,12.644%20l-105.561,52.914C210.432,322.389,208.261,322.887,206.094,322.887z%20M220.236,225.825v60.007l59.854-30.003L220.236,225.825z'/%3e%3c/svg%3e"></a></div></div><div class="_footerLinks_1ykwp_72"><h4>Platform</h4><a href="#">Find Internships</a><a href="#">Post a Position</a><a href="#">How it Works</a><a href="#">Pricing</a></div><div class="_footerLinks_1ykwp_72"><h4>Company</h4><a href="#">About Us</a><a href="#">Partners</a><a href="#">Blog</a><a href="#">Contact</a></div><div class="_footerLinks_1ykwp_72"><h4>Legal</h4><a href="#">Terms of Service</a><a href="#">Privacy Policy</a><a href="#">Cookie Policy</a><a href="#">GDPR</a></div></div><div class="_footerBottom_1ykwp_92"><p>© 2026 SmartIntern. All rights reserved.</p><p>Built with Love for students worldwide</p></div></footer></div>
+    <script type="module" src="/src/main.tsx"></script>
+  
+
+</body></html>
+```
+
+Full Computed CSS:
+```css
+
+/* Matched Rule from user-agent */
+html {
+  display: block;
+}
+
+/* Matched Rule from user-agent */
+:root {
+  view-transition-name: root;
+}
+
+/* Matched Rule from regular */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  box-sizing: border-box;
+}
+
+/* Matched Rule from regular */
+:root {
+  --bg-dark: #05070A;
+  --cyan: #00E5CC;
+  --blue: #00A3FF;
+  --text-gray: #94a3b8;
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --bg-dark: #05070A;
+  --cyan: #00E5CC;
+  --blue: #00A3FF;
+  --text-gray: #94a3b8;
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+```

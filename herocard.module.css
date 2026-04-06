@@ -1,0 +1,220 @@
+/* HeroCard Component Styles */
+
+.jobCard {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(25px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 24px;
+    padding: 30px;
+    width: 400px;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+.cardHeader {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.companyIcon {
+    width: 48px;
+    height: 48px;
+    background: #1e293b;
+    border-radius: 10px;
+}
+
+.headerText {
+    flex: 1;
+}
+
+.cardTitle {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    color: white;
+}
+
+.cardSubtitle {
+    font-size: 12px;
+    color: #94a3b8;
+    margin: 4px 0 0 0;
+}
+
+.matchBadge {
+    margin-left: auto;
+    color: #00E5CC;
+    border: 1px solid rgba(0, 229, 204, 0.3);
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.scoreLabel {
+    font-size: 11px;
+    font-weight: 600;
+    color: #94a3b8;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.progressContainer {
+    width: 100%;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+}
+
+.progressBar {
+    width: 87%;
+    height: 100%;
+    background: linear-gradient(90deg, #00A3FF, #00E5CC);
+    border-radius: 10px;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag {
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.tagCyan {
+    background: rgba(0, 229, 204, 0.1);
+    color: #00E5CC;
+}
+
+.tagBlue {
+    background: rgba(0, 163, 255, 0.1);
+    color: #00A3FF;
+}
+
+.tagRed {
+    background: rgba(255, 87, 87, 0.1);
+    color: #FF5757;
+}
+
+.tagOrange {
+    background: rgba(255, 163, 0, 0.1);
+    color: #FFA300;
+}
+
+.cardMeta {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+}
+
+.metaItem {
+    flex: 1;
+}
+
+.metaItem span {
+    display: block;
+    font-size: 10px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.metaItem strong {
+    display: block;
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+.btnCyanRect {
+    width: 100%;
+    background: #00E5CC;
+    color: black;
+    padding: 14px;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btnCyanRect:hover {
+    background: #00d4b8;
+    transform: translateY(-2px);
+}
+
+.btnCyanRect:active {
+    transform: scale(0.94);
+    filter: brightness(0.9);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .jobCard {
+        width: 100%;
+        max-width: 600px;
+        margin: 10px ;
+    }
+}
+
+@media (max-width: 920px) {
+    .jobCard {
+        width: 100%;
+        max-width: 600px;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 658px) {
+    .jobCard {
+        width: 100%;
+        max-width: 600px;
+        margin: 30px 0 0 0;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .cardHeader {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .matchBadge {
+        margin-left: 0;
+    }
+
+    .cardMeta {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .metaItem {
+        text-align: center;
+    }
+
+    .btnCyanRect {
+        padding: 12px;
+        font-size: 13px;
+    }
+}

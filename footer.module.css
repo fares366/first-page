@@ -1,0 +1,141 @@
+/* Footer Component Styles */
+
+.footer {
+    padding: 80px 80px 40px;
+    border-top: 1px solid var(--glass-border);
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.footerGrid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: 50px;
+    margin-bottom: 60px;
+}
+
+.brandDesc {
+    color: var(--text-gray);
+    font-size: 14px;
+    margin: 20px 0;
+    max-width: 300px;
+    line-height: 1.6;
+}
+
+.socialLinks {
+    display: flex;
+    gap: 15px;
+}
+
+.socialIcon1,
+.socialIcon2,
+.socialIcon3,
+.socialIcon4 {
+    font-size: 12px;
+    color: var(--text-gray);
+    text-decoration: none;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.socialIcon1 img {
+    width: 29px;
+    height: 29px;
+    text-align: center;
+    object-fit: contain;
+}
+
+.socialIcon2 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+.socialIcon3 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+.socialIcon4 img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+.socialIcon1:hover,
+.socialIcon2:hover,
+.socialIcon3:hover,
+.socialIcon4:hover {
+    scale: 1.1;
+}
+
+.footerLinks h4 {
+    font-size: 16px;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.footerLinks a {
+    display: block;
+    color: var(--text-gray);
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 12px;
+    transition: 0.3s;
+}
+
+.footerLinks a:hover {
+    color: white;
+    padding-left: 5px;
+}
+
+.footerBottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    border-top: 1px solid var(--glass-border);
+    color: var(--text-gray);
+    font-size: 12px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .footer {
+        padding: 40px 20px;
+    }
+
+    .footerGrid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 920px) {
+    .footer {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .footerGrid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 658px) {
+    .footer {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .footerGrid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        width: 100%;
+    }
+
+    .footerBottom {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

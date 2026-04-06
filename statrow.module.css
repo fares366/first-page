@@ -1,0 +1,52 @@
+/* Statistics Row Component Styles */
+
+.statsRow {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 80px;
+    background: rgba(255, 255, 255, 0.01);
+    border-top: 1px solid var(--glass-border);
+}
+
+.statItem h2 {
+    font-family: 'Syne';
+    font-size: 42px;
+    color: var(--cyan);
+}
+
+.statItem.active {
+    border: 1px solid var(--blue);
+    padding: 20px;
+    border-radius: 15px;
+    background: rgba(0, 163, 255, 0.05);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .statsRow {
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+    }
+
+    .statItem {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid var(--glass-border);
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 920px) {
+    .statsRow {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 658px) {
+    .statsRow {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}

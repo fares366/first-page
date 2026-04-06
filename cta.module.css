@@ -1,0 +1,72 @@
+/* Call-to-Action (CTA) Section Component Styles */
+
+.ctaSection {
+    padding: 100px 80px;
+}
+
+.ctaContainer {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.01) 100%);
+    border: 1px solid var(--glass-border);
+    border-radius: 32px;
+    padding: 80px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.ctaContainer::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(0, 229, 204, 0.1) 0%, transparent 70%);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.ctaLead {
+    color: var(--text-gray);
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+.ctaActions {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .ctaSection {
+        padding: 40px 20px;
+    }
+
+    .ctaActions {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 920px) {
+    .ctaSection {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 658px) {
+    .ctaSection {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .ctaContainer {
+        padding: 40px 20px;
+    }
+
+    .ctaActions {
+        flex-direction: column;
+    }
+}

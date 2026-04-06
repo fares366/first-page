@@ -1,0 +1,188 @@
+/* Who It's For Section Component Styles */
+
+.whoItFor {
+    padding: 100px 80px;
+    background: var(--bg-dark);
+    text-align: left;
+}
+
+.badgeGold {
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.3);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.sectionTitle {
+    font-family: 'Syne';
+    font-size: 48px;
+    font-weight: 800;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.dualCards {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.featureCard {
+    flex: 1;
+    background: var(--glass-bg);
+    backdrop-filter: blur(25px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 40px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.featureCard:hover {
+    transform: translateY(-5px);
+}
+
+.topAccent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 3px;
+    background: var(--cyan);
+    border-radius: 0 0 10px 0;
+}
+
+.topAccent.gold {
+    background: #FFA300;
+}
+
+.miniBadge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.miniBadgeCyan {
+    background: rgba(0, 229, 204, 0.1);
+    color: var(--cyan);
+    border: 1px solid rgba(0, 229, 204, 0.2);
+}
+
+.miniBadgeGold {
+    background: rgba(255, 163, 0, 0.1);
+    color: #FFA300;
+    border: 1px solid rgba(255, 163, 0, 0.2);
+}
+
+.featureCard h3 {
+    font-family: 'Syne', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.featureCard p {
+    color: var(--text-gray);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.featureList {
+    list-style: none;
+}
+
+.featureList li {
+    color: var(--text-gray);
+    font-size: 13px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.studentSide .featureList li {
+    color: var(--text-gray);
+}
+
+.studentSide .featureList li::before {
+    color: var(--cyan);
+}
+
+.companySide .featureList li::before {
+    color: #FFA300;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .dualCards {
+        flex-direction: column;
+    }
+
+    .featureCard {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 920px) {
+    .whoItFor {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 920px) {
+    .whoItFor {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    .dualCards {
+        flex-direction: column;
+    }
+
+    .featureCard {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 658px) {
+    .whoItFor {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .dualCards {
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+
+    .featureCard {
+        width: 100%;
+        margin: 0;
+    }
+    .sectionTitle {
+    font-family: 'Syne';
+    font-size: 40px;
+    font-weight: 700;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+}
