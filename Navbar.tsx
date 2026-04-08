@@ -1,19 +1,18 @@
-import styles from "./navbar.module.css";
+import React from 'react';
+import styles from './Navbar.module.css';
 
-const Navbar = () => {
+const Navbar: React.FC = () => {
   return (
-    <nav className={styles.navbar}>
-      <div className={styles.logo}>Trajekt</div>
-
-      <div className={styles.loginArea}>
-        <a href="#" className={styles.text}>
-          ALready have an account?
-        </a>
-        <a href="#" className={styles.loginBtn}>
-          Log In
-        </a>
+    <header className={styles.navbar}>
+      <div className={styles.brand}>
+        <span className={styles.logo}>Trajekt</span>
+        <span className={styles.subLogo}>Smart Internship Finder</span>
       </div>
-    </nav>
+      <div className={styles.navActions}>
+        <span className={styles.navText}>Already have an account?</span>
+        <button className={styles.btnLogin}>Log in</button>
+      </div>
+    </header>
   );
 };
 

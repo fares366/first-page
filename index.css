@@ -1,0 +1,72 @@
+/* 1. استيراد الخطوط */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+/* 2. تعريف المتغيرات العامة (Global Variables) */
+:root {
+    --bg-dark: #05070A;
+    --card-bg: #0B0E14;
+    --input-bg: #0B1118;
+    --accent: #00E5CC;
+    --text-main: #FFFFFF;
+    --text-dim: #94A3B8;
+    --border: rgba(255, 255, 255, 0.05);
+    --font-jakarta: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* 3. تصفير المسافات (Reset) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 4. الإعدادات الأساسية للجسم (Body) */
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: var(--font-jakarta);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* إضافة تدرج لوني خفيف في الخلفية كما في الصورة */
+    background-image: radial-gradient(circle at 50% -20%, rgba(0, 229, 204, 0.05) 0%, transparent 70%);
+    min-height: 100vh;
+}
+
+/* 5. إعدادات النصوص والروابط العامة */
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.3s;
+}
+
+button {
+    font-family: var(--font-jakarta);
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+/* 6. إعدادات الحقول العامة (لضمان توحد الخط) */
+input, select, textarea {
+    font-family: var(--font-jakarta);
+    outline: none;
+}
+
+/* 7. تحسين ظهور السكرول بار (Scrollbar) ليناسب التصميم المظلم */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+}

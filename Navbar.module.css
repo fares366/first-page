@@ -1,0 +1,74 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 5%;
+}
+.brand .logo {
+    display: block;
+    color: #00E5CC;
+    font-weight: 800;
+    font-size: 22px;
+}
+.brand .subLogo {
+    font-size: 10px;
+    color: #94A3B8;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.navActions { display: flex; align-items: center; gap: 20px; }
+.navText { color: #94A3B8; font-size: 14px; }
+.btnLogin {
+    background: transparent;
+    /* حدود بلون Cyan وبشفافية بسيطة */
+    border: 1px solid rgba(0, 229, 204, 0.4);
+    color: #00E5CC;
+    padding: 10px 24px;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    
+    /* جعل الانتقال ناعم جداً */
+    transition: all 0.3s ease-in-out;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* --- الأنميشن عند تمرير الماوس (Hover) --- */
+.btnLogin:hover {
+    /* تغيير الخلفية للون الأخضر */
+    background-color: #00E5CC;
+    /* تغيير لون النص للأسود ليظهر بوضوح فوق الأخضر */
+    color: #05070A;
+    /* جعل الحدود صلبة وغير شفافة */
+    border-color: #00E5CC;
+    /* إضافة توهج (Glow) خلف الزر */
+    box-shadow: 0 0 20px rgba(0, 229, 204, 0.3);
+    
+    transform: translateY(-2px);
+}
+
+
+.btnLogin:active {
+    transform: translateY(0);
+    box-shadow: 0 0 10px rgba(0, 229, 204, 0.2);
+}
+
+
+@media (max-width: 480px) {
+    .btnLogin {
+        padding: 8px 16px;
+        font-size: 13px;
+    }
+}
+@media (max-width: 768px) {
+    .navText {
+        display: none !important;
+    }
+    .navbar {
+        padding: 20px 5%;
+    }
+}
