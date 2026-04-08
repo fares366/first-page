@@ -1,0 +1,66 @@
+.navbar {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 80px;
+  background: rgba(1, 2, 3, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  z-index: 10000;
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  background: linear-gradient(to right, #fff, var(--student-accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.loginArea {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.text {
+  color: var(--text-gray);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.loginBtn {
+  border: 1px solid rgba(0, 217, 255, 0.4);
+  color: var(--student-accent);
+  padding: 10px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+  background: rgba(0, 217, 255, 0.05);
+}
+
+.loginBtn:hover {
+  background: var(--student-accent);
+  color: #000;
+  box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);
+}
+@media (max-width: 966px) {
+  nav {
+    padding: 12px 20px;
+  }
+
+   .text {
+    display: none;
+  }
+
+ 
+}

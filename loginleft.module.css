@@ -1,0 +1,86 @@
+.login-left {
+    flex: 1;
+    background: radial-gradient(circle at top left, rgba(0, 229, 204, 0.05), transparent);
+    padding: 60px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1px solid var(--glass-border);
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-circle {
+    width: 40px;
+    height: 40px;
+    background: #ccc;
+    border-radius: 50%;
+}
+
+.brand-name {
+    font-family: 'Syne';
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--cyan);
+}
+
+.welcome-text {
+    font-family: 'Syne';
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 1.1;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+    min-height: 200px;
+    display: block;
+}
+
+.gradient-text {
+    background: linear-gradient(90deg, var(--cyan), var(--gold));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cursor {
+    color: var(--cyan);
+    animation: blink 0.7s infinite;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+/* Responsive LoginLeft */
+@media (max-width: 900px) {
+    .login-left {
+        display: none;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1023px) {
+    .login-left {
+        display: block !important;
+        flex: none;
+        padding: 40px;
+        text-align: center;
+        border-right: none;
+        border-bottom: 1px solid var(--glass-border);
+    }
+    .login-left .welcome-text {
+        font-size: 40px;
+        margin-bottom: 20px;
+        min-height: auto;
+    }
+    .login-left .brand {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+}

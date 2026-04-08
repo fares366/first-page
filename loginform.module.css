@@ -1,0 +1,236 @@
+.login-right {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+
+.form-box {
+    width: 100%;
+    max-width: 420px;
+}
+
+.form-instruction {
+    color: var(--text-gray);
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+
+.input-group {
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.input-group label {
+    display: block;
+    font-size: 13px;
+    margin-bottom: 10px;
+    color: #ddd;
+}
+
+.input-wrapper {
+    position: relative;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    transition: 0.3s;
+}
+
+.input-wrapper:focus-within {
+    border-color: var(--cyan);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.icon {
+    margin-right: 12px;
+    opacity: 0.5;
+}
+
+.input-wrapper input {
+    background: transparent;
+    border: none;
+    color: white;
+    padding: 15px 0;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+}
+
+.forgot-link {
+    display: block;
+    text-align: right;
+    color: var(--gold);
+    text-decoration: none;
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+.forgot-link:hover {
+    text-decoration: underline;
+}
+
+.divider {
+    text-align: center;
+    margin: 30px 0;
+    position: relative;
+}
+
+.divider::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: var(--glass-border);
+}
+
+.divider span {
+    position: relative;
+    background: var(--bg-dark);
+    padding: 0 15px;
+    color: var(--text-gray);
+    font-size: 12px;
+}
+
+.social-login {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.social-btn {
+    flex: 1;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.social-btn:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.btn-login-gradient {
+    width: 100%;
+    padding: 16px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, var(--cyan), var(--gold));
+    color: #05070A;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.btn-login-gradient:active {
+    transform: scale(0.96);
+}
+
+.signup-footer {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 13px;
+    color: var(--text-gray);
+}
+
+.signup-footer a {
+    color: var(--gold);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.signup-footer a:hover {
+    text-shadow: #FFA300 0 0 10px;
+}
+
+/* Responsive LoginRight/Form */
+@media (max-width: 600px) {
+    .login-right {
+        padding: 20px; 
+        width: 100%;
+    }
+    .form-box {
+        max-width: 100%; 
+        margin-left: 0;
+    }
+    .input-group label {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .input-wrapper {
+        padding: 5px 15px;
+        height: 60px; 
+    }
+    .input-wrapper input {
+        font-size: 18px; 
+    }
+    .social-login {
+        flex-direction: column; 
+        gap: 12px;
+    }
+    .social-btn {
+        padding: 15px;
+        font-size: 16px;
+    }
+    .btn-login-gradient {
+        padding: 18px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .form-instruction {
+        font-size: 16px;
+    }
+    .signup-footer {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 375px) {
+    .signup-footer {
+        margin-bottom: 0px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1023px) {
+    .login-right {
+        flex: none;
+        width: 100%;
+        padding: 60px 20px;
+    }
+    .form-box {
+        max-width: 550px; 
+        margin: 0 auto;
+    }
+    .input-wrapper {
+        height: 65px;
+    }
+    .input-wrapper input {
+        font-size: 18px;
+    }
+    .btn-login-gradient {
+        padding: 20px;
+        font-size: 20px;
+    }
+    .social-btn {
+        padding: 16px;
+        font-size: 16px;
+    }
+}
