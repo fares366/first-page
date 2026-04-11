@@ -1,51 +1,31 @@
-:root {
-  --bg-dark: #05070A;
-  --cyan: #00E5CC;
-  --gold: #FFA300;
-  --text-gray: #94a3b8;
-}
-
-/* Reset */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-/* 🔥 مهم جدًا */
-html, body, #root {
-  width: 100%;
-  height: 100%;
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #05070A;
+    font-family: 'Syne', sans-serif;
 }
 
-/* Body */
-body {
-  margin: 0;
-  background-color: var(--bg-dark);
-  color: white;
-  font-family: 'Syne', sans-serif;
-  overflow-x: hidden;
-}
-
-/* Page wrapper */
 .auth-page {
-  position: relative;
-  min-height: 100vh;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
 }
 
-/* Glow */
 .bg-glow {
-  position: absolute;
-  top: -10%; 
-  left: 50%;
-  width: 800px; 
-  height: 600px;
-  background: radial-gradient(circle, rgba(0, 229, 204, 0.08) 0%, transparent 70%);
-  transform: translateX(-50%);
-  z-index: -1;
+    position: absolute;
+    top: -10%; left: 50%;
+    width: 800px; height: 600px;
+    background: radial-gradient(circle, rgba(0, 229, 204, 0.08) 0%, transparent 70%);
+    transform: translateX(-50%);
+    z-index: 0;
 }
