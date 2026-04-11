@@ -1,0 +1,206 @@
+:root {
+  --bg-dark: #05070A;
+  --cyan: #00E5CC;
+  --gold: #FFA300;
+  --text-gray: #94a3b8;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  background-color: var(--bg-dark);
+  color: white;
+  font-family: 'Syne', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Page */
+.auth-page {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px; /* مهم للهاتف */
+}
+
+/* Glow */
+.bg-glow {
+  position: absolute;
+  top: -10%; 
+  left: 50%;
+  width: 800px; 
+  height: 600px;
+  background: radial-gradient(circle, rgba(0, 229, 204, 0.08) 0%, transparent 70%);
+  transform: translateX(-50%);
+  z-index: -1;
+}
+
+/* Container */
+.container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto; /* توسيط */
+  text-align: center;
+}
+
+/* Title */
+.title {
+  font-size: clamp(24px, 5vw, 42px);
+  font-weight: 900;
+  color: white;
+  margin-bottom: 20px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+}
+
+/* Gradient Text */
+.gradientText {
+  background: linear-gradient(90deg, #00E5CC 0%, #D4DC5F 50%, #FFA300 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Description */
+.description {
+  color: var(--text-gray);
+  font-size: clamp(13px, 3.5vw, 15px);
+  margin-bottom: 25px;
+}
+
+/* Email badge */
+.emailBadge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: clamp(12px, 3vw, 14px);
+  color: var(--cyan);
+  margin-bottom: 40px;
+  border: 1px solid rgba(0, 229, 204, 0.2);
+}
+
+/* Code grid */
+.codeGrid {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap; /* يمنع الانزياح */
+  margin-bottom: 35px;
+}
+
+/* OTP inputs */
+.otpInput {
+  width: 55px;
+  height: 65px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  text-align: center;
+  font-size: 28px;
+  color: white;
+  font-weight: 700;
+  outline: none;
+  transition: 0.3s;
+}
+
+.otpInput:focus {
+  border-color: var(--cyan);
+  background: rgba(0, 229, 204, 0.05);
+  box-shadow: 0 0 15px rgba(0, 229, 204, 0.2);
+}
+
+/* Timer */
+.timerSection {
+  margin-bottom: 40px;
+  font-size: 14px;
+  color: var(--text-gray);
+}
+
+/* Resend */
+.resendBtn {
+  color: var(--gold);
+  background: none;
+  border: none;
+  font-weight: 700;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+/* Button */
+.resetBtn {
+  width: 100%;
+  padding: 16px;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #00E5CC 0%, #D4DC5F 50%, #FFA300 100%);
+  color: #05070A;
+  font-weight: 900;
+  font-size: clamp(14px, 3.5vw, 16px);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: 0.3s;
+}
+
+.resetBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 229, 204, 0.2);
+}
+
+/* Back link */
+.backLink {
+  margin-top: 35px;
+  color: var(--text-gray);
+  font-size: 15px;
+}
+
+.backLink a {
+  color: var(--cyan);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* 📱 تحسينات الهاتف */
+@media (max-width: 480px) {
+   
+
+  .container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+
+}
+
+  .otpInput {
+    width: 42px;
+    height: 52px;
+    font-size: 20px;
+  }
+
+  .codeGrid {
+    gap: 8px;
+  }
+
+  .emailBadge {
+    padding: 8px 14px;
+  }
+
+  .resetBtn {
+    padding: 14px;
+  }
+
+}
